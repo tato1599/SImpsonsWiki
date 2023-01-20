@@ -1,0 +1,29 @@
+h1{
+    background-color: rgba(62, 57, 57, 0.313);
+    border-radius: 10%;
+    color: rgb(254, 249, 0);
+    text-align: center;
+}
+
+h4{
+    text-align: center;
+}
+
+ul{
+    text-align: center;
+    word-spacing:10cm;
+}
+
+
+ img {
+    width: 5cm;
+    height: 5cm;
+    
+ }
+
+ div {
+    width: 200px;
+    margin: 0;
+    padding: 25px 0;
+
+ }
